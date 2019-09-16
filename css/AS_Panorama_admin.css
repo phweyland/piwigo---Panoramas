@@ -1,0 +1,18 @@
+#ASP_Config td.label  {
+	padding:2px 10px;
+	text-align:right;
+}
+input[type="radio"] {
+	width:20px;
+}
+.infos, .errors {
+  background-color:transparent;
+}
+.clear fieldset#ASP_Config {
+  background: url(../images/Pano_clear_bg.png) scroll no-repeat bottom left transparent;
+  padding: 0;
+}
+.roma fieldset#ASP_Config {
+  background: url(../images/Pano_roma_bg.png) scroll no-repeat bottom left transparent;
+  padding: 0;
+}

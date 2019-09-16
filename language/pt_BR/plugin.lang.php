@@ -1,0 +1,48 @@
+<?php
+$lang['----------  Horizontal Panoramas  ----------'] = '----------  Panoramas Horizontais ----------';
+$lang['----------  Vertical Panoramas  ----------'] = '----------  Panoramas Verticais  ----------';
+$lang['authors of'] = 'autores de';
+$lang['Auto'] = 'Auto';
+$lang['Automatic start'] = 'Início automático';
+$lang['Border color'] = 'Cor da Borda Panorâmica';
+$lang['Border Width ratio is out of range (Correct range: 0-10).'] = 'Tamanho da borda panorâmica fora da faixa (Corrija faixa: 0-10)';
+$lang['Border width'] = 'Tamanho da borda panorâmica';
+$lang['Caption Color'] = 'Cor do texto de descrição';
+$lang['Control display'] = 'Controle da exibição';
+$lang['Footer Color'] = 'Cor de fundo do rodapé';
+$lang['Footer Control Color'] = 'Controle da cor do rodapé';
+$lang['Footer display'] = 'Mostra rodapé';
+$lang['Left'] = 'esquerda';
+$lang['Maximal Viewport width is out of range (Correct range: Minimal/+).'] = 'Largura máxima Visualização está fora da faixa (corrija faixa: Mínima/+).';
+$lang['Minimal Viewport width is out of range (Correct range: 320/+).'] = 'Largura mínima Visualização está fora da faixa (corrija faixa: 320/+).';
+$lang['Mode 180 (Alternative left-right restart)'] = 'Modo 180 (reinicia alternativa esquerda-direita)';
+$lang['Mode 360'] = 'Modo 360';
+$lang['Off'] = 'desligado';
+$lang['On'] = 'ligado';
+$lang['Panoramas configuration'] = 'Configuração Panoramas';
+$lang['Permanent'] = 'Permanente';
+$lang['Picture name substring could not be empty.'] = 'Nome da Foto não pode ficar vazio.';
+$lang['Picture name substring to display in Mode 180'] = 'Sequência para nomear a foto no modo 180';
+$lang['Picture name substring to display in Mode 360'] = 'Sequência para nomear a foto no modo 360';
+$lang['Picture name substring to display in Vertical'] = 'Sequência para nomear a foto no modo Vertical';
+$lang['Picture name substrings must be different.'] = 'As sequência para nomear as fotos devem ser diferentes';
+$lang['Relative speed factor ']['10-90'] = 'Fator relativo de velocidade [10-90]';
+$lang['Relative speed factor is out of range (Correct range: 10-90).'] = 'Fator relativo de velocidade está fora da faixa (corrija faixa: 10-90)';
+$lang['Remove substring from picture title'] = 'Remove o nome do título da foto';
+$lang['Right'] = 'Direita';
+$lang['Rotation direction'] = 'Direção da rotação';
+$lang['Special thanks to:'] = 'Agradecimentos especiais para:';
+$lang['Start position ']['% between 0-99'] = 'Posição de início [% entre 0-99]';
+$lang['Start position ratio is out of range (Correct range: 0-99).'] = 'Posição de Início está fora da faixa (Corrija faixa: 0-99).';
+$lang['Viewport height [between 300-1200 pixels]'] = 'Altura de visualização [entre 300 e 1200 pixels]';
+$lang['Viewport height [pixels > 500]'] = 'Altura de visualização [pixels > 500]';
+$lang['Viewport maximal width ']['pixels >= minimal width'] = 'Largura de visualização máxima [pixels >= largura mínima]';
+$lang['Viewport minimal width ']['pixels > 320'] = 'Largura de visualização mínima [pixels > 320]';
+$lang['Viewport width [% between 50-100]'] = 'Largura relativa de visualização [% entre 50-100]';
+$lang['Viewport width ']['% between 50-100'] = 'Largura de visualização [% entre 50-100]';
+$lang['Viewport width ratio is out of range (Correct range: 50-100).'] = 'Largura de visualização está fora da faixa (Corrija a faixa: 50-100).';
+$lang['You are not authorized to change this configuration (Webmaster only).'] = 'Você não pode mudar essa configuração (somente o adminstrador do sítio)';
+$lang['Your configuration is NOT saved due to above reasons.'] = 'Sua configuração não foi salva devido as razões abaixo.';
+$lang['Your configuration is saved.'] = 'Sua configuração foi salva';
+
+?>

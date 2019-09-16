@@ -1,0 +1,1 @@
+Un lecteur d'images panoramiques très simple basé sur jQuery avec 2 modes horizontaux(360 or 180) où le mode 180 peut inverser le sens de rotation, et un mode vertical.

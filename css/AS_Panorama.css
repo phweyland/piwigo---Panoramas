@@ -1,0 +1,142 @@
+.panorama-viewport {
+	position: relative;
+	overflow: hidden;
+	margin: 0 auto;
+	padding: 0;
+	text-align: left;
+	border: 1px solid black;
+}
+.panorama-container {
+	position: relative;
+	width: 100000px;
+	margin: 0;
+	padding: 0;
+}
+
+.panorama-footer {
+	padding: 0;
+	margin: 0 auto;
+	overflow: hidden;
+	text-align: left;
+	width: 100%;
+}
+
+#panoramaThumb {
+	float: right;
+	margin: 8px 8px 8px 8px;
+	padding: 0px;
+	overflow: hidden;
+	text-align: left;
+	cursor: pointer;
+}
+	
+#thumbFrame {
+	left: 0;
+	padding: 0;
+	margin: 0;
+	background-color: lightblue;
+	cursor: move;
+	z-index: 1000;
+	opacity: 0.4;
+	-moz-opacity: 0.8;
+	filter: alpha(opacity=80);
+}
+
+#panoramaCaption {
+	float: left;
+	margin: 11px 0 0 30px;
+	color : white; /*this.options.captioncolor,*/
+	font-family: "Trebuchet MS";
+	text-align: left;
+	font-size: 12px;
+	line-height: 20px;
+
+}
+	
+.panorama-control {
+	position: absolute;
+	display: none;
+	padding: 0;
+	margin: 0 auto;
+	bottom: -1px;
+	height: 35px;
+	text-align: center;
+}
+
+.panorama-control A {
+	float: left;
+	padding: 0;
+	margin: 2px 0 2px 0;
+	background: #151A23;
+	filter: alpha(opacity=60);
+	opacity: .6;
+	color: white;
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 28px;
+	width: 80px;
+	text-align: center;
+	vertical-align: middle;
+	font-family: 'Arial',sans-serif;
+	border: 1px solid yellow;
+	border-radius: 10px;
+}
+.panorama-control A:hover { 
+	text-decoration: none;
+	background: white;
+	color: #151A23;
+}
+
+.footer-control {
+	float: left;
+	padding: 0;
+	margin: 11px 0 0 10px;
+}
+
+.footer-control A {
+	float: left;
+	margin: 1px 1px 1px 1px;
+	padding: 4px 0;
+	color: white;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+	height: 16px;
+	width: 25px;
+	text-align: center;
+	/*vertical-align: middle;*/
+	font-family: 'Arial',sans-serif;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+
+.panorama-control-pause {
+	text-transform: uppercase;
+}
+.panorama-panel {
+	position: absolute;
+	display: none;
+	top: 0;
+	right: 0;
+	background: #009cff;
+	filter: alpha(opacity=50);
+	opacity: .5;
+	color: white;
+	padding: 4px;
+}
+.panorama-panel h2 {
+	font-size: 11px;
+	text-transform: uppercase;
+	font-family: Arial, sans-serif;
+	text-align: right;
+}
+.panorama-panel ul {
+	display: none;
+}
+.panorama {
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+

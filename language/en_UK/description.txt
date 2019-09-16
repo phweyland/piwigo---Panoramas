@@ -1,0 +1,1 @@
+A simple panorama viewer based on jQuery with 2 horizontal modes (360 or 180) where mode 180 will reverse the rotation direction, and a vertical mode.

@@ -1,0 +1,1 @@
+Um simples visualizador de panoramas baseado em jQuery com 2 modos horizontais(360 e 180) onde o modo 180 irá reverter a direção de rotação, e um modo vertical.
